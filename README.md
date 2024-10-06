@@ -6,4 +6,5 @@ This project is a web scraping and exporting tool built with React and Node.js, 
 2. run the following commands in the project directory:
    
 npm install
+
 npm start
